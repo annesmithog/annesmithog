@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Skills
-<img alt="skills1" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,ruby,python,php,cs,cpp,js,ts,swift,mysql,postgres">
+<img alt="skills1" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,ruby,python,php,cs,cpp,js,ts,swift,mysql,postgres,java">
 
 <!--
 ## 🏃‍♀️ Activities
